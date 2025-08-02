@@ -38,5 +38,5 @@ I'm a **versatile software engineer** with a strong focus on:
 Languages: Kotlin, Swift, Dart, Python, Java, PHP, JavaScript
 Mobile:   Jetpack Compose, SwiftUI, UIKit, Flutter
 Backend:  Laravel, Spring Boot, FastAPI
-ML/AI:    TensorFlow Lite, CoreML, Scikit-learn, Transformers
+ML/AI:    TensorFlow, CoreML, Scikit-learn, Transformers
 Tools:    Git, Docker, Postman, Firebase, GCP, Xcode, Android Studio
