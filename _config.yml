@@ -5,7 +5,7 @@ baseurl: "" # Leave empty unless the site is hosted in a subfolder
 url: "https://m-kouassi.github.io"
 
 # Theme
-theme: jekyll-theme-dinky #jekyll-theme-minimal
+theme: jekyll-theme-minimal #jekyll-theme-minimal
 
 # Social links (optional icons)
 github_username: m-kouassi
