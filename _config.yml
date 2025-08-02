@@ -1,0 +1,18 @@
+title: "Modeste KOUASSI"
+description: >
+  Full-stack mobile engineer & AI specialist — building intelligent, scalable, and elegant apps.
+baseurl: "" # Leave empty unless the site is hosted in a subfolder
+url: "https://m-kouassi.github.io"
+
+# Theme
+theme: jekyll-theme-modernist #jekyll-theme-minimal
+
+# Social links (optional icons)
+github_username: m-kouassi
+linkedin_username: modestekouassi
+email: modestekouassi@gmail.com
+
+# Additional settings
+logo: /assets/profile.jpg # Optional: if you add a profile picture
+show_downloads: false
+google_analytics: "" # Optional: Add your tracking ID
