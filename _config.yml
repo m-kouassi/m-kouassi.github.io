@@ -13,6 +13,6 @@ linkedin_username: modestekouassi
 email: modestekouassi@gmail.com
 
 # Additional settings
-logo: /assets/profile.jpg # Optional: if you add a profile picture
+logo: /assets/img/profile.png # Optional: if you add a profile picture
 show_downloads: false
 google_analytics: "" # Optional: Add your tracking ID
